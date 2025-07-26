@@ -1,0 +1,1 @@
+create database google_stock_data;
