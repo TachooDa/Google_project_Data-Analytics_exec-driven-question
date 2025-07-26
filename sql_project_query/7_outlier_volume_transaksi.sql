@@ -1,8 +1,8 @@
 /*
-Question : Apakah terdapat hari dengan volume transaksi tidak wajar (outlier)?
+Question : Apakah terdapat hari-hari tertentu dengan lonjakan volume transaksi yang tidak biasa?
     - Hitung rata-rata dan standar deviasi dari volume
     - Temukan hari dengan volume sangat tinggi (misalnya Z-score > 2)
-    - Mengapa? Untuk mendeteksi anomali aktivitas pasar yang mungkin disebabkan oleh kejadian luar biasa
+    - Why? Untuk mendeteksi anomali aktivitas pasar yang mungkin disebabkan oleh kejadian luar biasa
 */
 with statistik_v as (
 SELECT

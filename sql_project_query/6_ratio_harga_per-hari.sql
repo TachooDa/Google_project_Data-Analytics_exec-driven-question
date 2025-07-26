@@ -1,8 +1,8 @@
 /*
-Question : Lebih seringkah harga saham naik atau turun dalam sehari?
+Question : Dalam sehari perdagangan, apakah saham Google lebih sering mengalami kenaikan atau penurunan harga?
     - Bandingkan jumlah hari di mana Close > Open vs Close < Open
     - Hitung persentasenya dari total hari perdagangan
-    - Mengapa? Mengukur dominasi sentimen pasar dalam jangka panjang
+    - Why? Mengukur dominasi sentimen pasar dalam jangka panjang
 */
 with status_per_hari as (
 SELECT

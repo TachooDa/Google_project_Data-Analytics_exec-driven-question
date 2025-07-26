@@ -1,8 +1,8 @@
 /*
-Question : Bulan apa yang memiliki volume perdagangan tertinggi?
+Question : Di bulan apa aktivitas perdagangan saham Google mencapai puncaknya?
     - Hitung total volume saham yang diperdagangkan per bulan
     - Kelompokkan berdasarkan bulan dan tahun
-    - Mengapa? Menemukan waktu aktivitas pasar tertinggi, bisa berkaitan dengan laporan keuangan atau musim tertentu
+    - Why? Menemukan waktu aktivitas pasar tertinggi, bisa berkaitan dengan laporan keuangan atau musim tertentu
 */
 
 SELECT

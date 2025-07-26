@@ -1,13 +1,18 @@
-select 
+SELECT 
     date,
-    max(open) as pembukaan_harga_tertinggi,
-    max(volume) as volume_transaksi_terbesar,
-    max(close) as harga_penutupan_tertinggi
-from 
-google_stock
-group BY
+    MIN(open) AS harga_pembukaan_terendah,
+    MAX(open) AS harga_pembukaan_tertinggi,
+    ROUND(AVG(open)::numeric, 2) AS rata_rata_pembukaan,
+    MIN(close) AS harga_penutupan_terendah,
+    MAX(close) AS harga_penutupan_tertinggi,
+    ROUND(AVG(close)::numeric, 2) AS rata_rata_penutupan,
+    MAX(volume) AS volume_terbesar,
+    MIN(volume) AS volume_terendah,
+    ROUND(AVG(volume)::numeric, 0) AS rata_rata_volume
+FROM 
+    google_stock
+GROUP BY 
     date
-order BY
-    date desc,
-   volume_transaksi_terbesar desc
-    limit 7;
+ORDER BY 
+    date DESC
+LIMIT 10;

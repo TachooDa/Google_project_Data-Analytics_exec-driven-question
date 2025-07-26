@@ -1,9 +1,9 @@
 /*
-Question : Hari apa saja yang memiliki volatilitas harga paling besar?
+Question : Hari apa saja dalam seminggu yang menunjukkan fluktuasi harga (volatilitas) saham paling signifikan?
     - Tambahkan kolom High - Low sebagai ‘volatilitas’
     - Mencari rata-rata dari high - low sebagai nilai 'volatilitas' nya
     - Urutkan berdasarkan nilai tertinggi
-    - Mengapa? Mengungkap hari-hari penting dengan pergerakan besar, kemungkinan pengaruh berita/kejadian
+    - Why? Mengungkap hari-hari penting dengan pergerakan besar, kemungkinan pengaruh berita/kejadian
 */
 
 SELECT

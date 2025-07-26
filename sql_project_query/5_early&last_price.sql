@@ -1,5 +1,5 @@
 /*
-Question : Apakah harga saham lebih cenderung naik di awal atau di akhir minggu?
+Question : Apakah terdapat kecenderungan harga saham naik di awal minggu atau justru di akhir minggu?
     - Ambil data hari Senin dan Jumat saja
     - Hitung rata-rata harga penutupan (Close) untuk masing-masing hari
     - Why? Mengungkap pola musiman mingguan yang dapat dijadikan dasar strategi trading

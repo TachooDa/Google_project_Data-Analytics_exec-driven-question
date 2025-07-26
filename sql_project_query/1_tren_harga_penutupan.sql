@@ -1,8 +1,8 @@
 /*
-Question : Bagaimana tren rata-rata harga penutupan saham Google dari waktu ke waktu?
+Question : Bagaimana pola pergerakan rata-rata harga penutupan saham Google dari waktu ke waktu?
     - Hitung rata-rata harga penutupan (Close) per bulan dan tahun
     - Gunakan fungsi waktu (YEAR, MONTH) untuk mengelompokkan
-    - Mengapa? Memahami tren pergerakan jangka panjang saham Google
+    - Why? Memahami tren pergerakan jangka panjang saham Google
 */
 
 SELECT

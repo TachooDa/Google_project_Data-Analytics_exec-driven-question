@@ -1,8 +1,8 @@
 /*
-Question : Seberapa sering harga saham ditutup lebih tinggi dari pembukaannya?
+Question : Seberapa sering saham Google ditutup dengan harga lebih tinggi dibanding saat pembukaan?
     - Hitung jumlah hari di mana Close > Open
     - Bandingkan dengan total hari untuk dapatkan rasio
-    - Mengapa? Menunjukkan seberapa sering sentimen pasar positif
+    - Why? Menunjukkan seberapa sering sentimen pasar positif
 */
 SELECT
     COUNT(date) as jumlah_hari_harga_naik,
