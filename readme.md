@@ -63,8 +63,9 @@ Here's the breakdown insight of the top 20 average closing price at google stock
 - 📉 Setelah puncak tersebut, terjadi koreksi signifikan hingga mencapai titik terendah di bulan April 2025 (**~156 juta USD%%), yang kemungkinan disebabkan oleh aksi ambil untung (**profit-taking\*\*) investor.
 - 🔄 Harga kembali naik pada pertengahan 2025 dan menunjukkan sinyal pemulihan (rebound), menandakan bahwa sentimen pasar tetap positif meski sempat terkoreksi.
 - 📊 Perbedaan harga antar bulan yang cukup ekstrem (**±40 juta USD**) mencerminkan volatilitas tinggi, sehingga periode ini berisiko sekaligus menarik untuk strategi trading jangka pendek.
-  ![Average harga penutupan TOP 20](assets\1_avg_harga_penutupan_top20.png)
-  _Grafik menampilkan tren harga penutupan rata-rata saham Google dalam satuan juta USD selama periode bulan-bulan tertentu (kemungkinan rentang 2024–2025). Data yang diambil adalah 20 bulan dengan rata-rata harga tertinggi (top 20)._
+
+![Average harga penutupan TOP 20](assets\1_avg_harga_penutupan_top20.png)
+_Grafik menampilkan tren harga penutupan rata-rata saham Google dalam satuan juta USD selama periode bulan-bulan tertentu (kemungkinan rentang 2024–2025). Data yang diambil adalah 20 bulan dengan rata-rata harga tertinggi (top 20)._
 
 #### Langkah Rekomendasi
 
@@ -84,8 +85,9 @@ Here's the breakdown insight of how often Google stock closed higher than it ope
 - Selama periode, saham Google ditutup dengan harga lebih tinggi dari harga pembukaan pada **50,75%** per hari perdagangan.
 - Hal ini menunjuk-kan bahwa sentimen pasar secara umum cenderung positif secara _intraday_, walaupun tidak dominan secara signifikan(bahkan mendekati netral).
 - Kombinasi harga pembukaan dan penutupan paling sering menunjukan tren kenaikan, dimana ini menunjukan minat beli yang kuat hingga akhir sesi.
-  ![Positive sentiment market](assets/2_sentimen_pasar_positif.png)
-  _Persentase hari harga naik: 50.75% dari total 5255 hari perdagangan. Bar chart juga menunjukan penutupan harga saham selalu lebih besar dibandingikan dengan pembukaan harga saham_
+
+![Positive sentiment market](assets/2_sentimen_pasar_positif.png)
+_Persentase hari harga naik: 50.75% dari total 5255 hari perdagangan. Bar chart juga menunjukan penutupan harga saham selalu lebih besar dibandingikan dengan pembukaan harga saham_
 
 #### Langkah Rekomendasi
 
@@ -165,4 +167,4 @@ Here's the breakdown insight of which day show the most spike transaction volume
 
 # Closing though
 
-Proyek ini telah memperkuat kemampuan saya dalam menganalisis data pasar saham menggunakan SQL dan visualisasi python untuk mengidentifikasi pola harga, volatilitas, sentimen pasar, serta aktivitas transaksi yang tidak wajar pada saham Google. Melalui eksplorasi data historis ini, saya memperoleh wawasan berharga tentang bagaimana memanfaatkan data untuk mendukung keputusan investasi yang lebih terukur. Proyek ini juga menegaskan pentingnya pendekatan berbasis data dalam memahami dinamika pasar dan menunjukkan bahwa kemampuan analisis kuantitatif merupakan aset penting dalam dunia finansial yang terus berubah.
+Proyek ini memperkuat kemampuan saya dalam menganalisis data pasar saham menggunakan SQL dan visualisasi python untuk mengidentifikasi pola harga, volatilitas, sentimen pasar, serta aktivitas transaksi yang tidak wajar pada saham Google. Melalui eksplorasi data historis ini, saya memperoleh wawasan berharga tentang bagaimana memanfaatkan data untuk mendukung keputusan investasi yang lebih terukur. Proyek ini juga menegaskan pentingnya pendekatan berbasis data dalam memahami dinamika pasar dan menunjukkan bahwa kemampuan analisis kuantitatif merupakan aset penting dalam dunia finansial yang terus berubah.
