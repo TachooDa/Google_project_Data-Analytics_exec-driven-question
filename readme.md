@@ -65,6 +65,7 @@ Here's the breakdown insight of the top 20 average closing price at google stock
 - 📊 Perbedaan harga antar bulan yang cukup ekstrem (**±40 juta USD**) mencerminkan volatilitas tinggi, sehingga periode ini berisiko sekaligus menarik untuk strategi trading jangka pendek.
 
 ![Average harga penutupan TOP 20](assets\1_avg_harga_penutupan_top20.png)
+
 _Grafik menampilkan tren harga penutupan rata-rata saham Google dalam satuan juta USD selama periode bulan-bulan tertentu (kemungkinan rentang 2024–2025). Data yang diambil adalah 20 bulan dengan rata-rata harga tertinggi (top 20)._
 
 #### Langkah Rekomendasi
@@ -87,6 +88,7 @@ Here's the breakdown insight of how often Google stock closed higher than it ope
 - Kombinasi harga pembukaan dan penutupan paling sering menunjukan tren kenaikan, dimana ini menunjukan minat beli yang kuat hingga akhir sesi.
 
 ![Positive sentiment market](assets/2_sentimen_pasar_positif.png)
+
 _Persentase hari harga naik: 50.75% dari total 5255 hari perdagangan. Bar chart juga menunjukan penutupan harga saham selalu lebih besar dibandingikan dengan pembukaan harga saham_
 
 #### Langkah Rekomendasi
@@ -106,6 +108,7 @@ Here's the breakdown insight of which weekdays show the most significant price v
 - Volatilitas yg tinggi menjadi sinyal peluang besar untuk trader aktif, tetapi ini juga berisiko tinggi jika tida diikuti dengan langkah yg tepat.
 
 _Volatilitas ekstrem ini bisa menjadi alarm bagi investor untuk lebih waspada atau justru lebih aktif memanfaatkan peluang harga yang fluktuatif — tergantung pada profil risiko dan strategi investasi masing-masing._
+
 ![Top 10 Volatil saham tertinggi](assets/3_top10_volatilitas_tertinggi.png)
 _Bar chart menunjukan volatilitas harga harian(selisih hig-low) jauh diatas rata-rata(lebih dari 9x lipat),tepatnya pada 7 mei 2025, volatilitas mencapai **17.48 poin** jika dibandingkan dengan daily average yg hanya **1.07 poin**_
 
@@ -142,8 +145,9 @@ Here's the breakdown insight of which day show the most spike transaction volume
 - Pada grafik menunjukan banyaknya lonjakan volume(outlier) yang signifikan antara tahun 2004-2008. **Z-Score** bahkan mencapai diatas 10, dimana ini menunjukan aktivitas perdagangan yg luar biasa tinggi.
 - Setelah periode tahun 2008 jumlah outlier menurun drastis dan cenderung volume perdagangan lebih stabil pada tahun-tahun berikutnya, ini menunjukan pasar mulai lebih tenang dan terprediksi
 - Setelah tahun 2015, hampir tidak ada lonjakan signifikan dan mencurikgakan. Sehingga aktivitas transaksi terjaga dengan pola distribusi yang cenderung normal.
-  ![Spike transaction](assets/7_outliers_transaction.png)
-  _Walaupun sempat mengalami volume transaksi yang signifikan pada tahun (2004-2008), pergerakan transaksi terlihat kembali stabil dimulai pada tahun 2015 dengan pola distribusi yang cenderung lebih normal dan terprediksi_
+
+![Spike transaction](assets/7_outliers_transaction.png)
+_Walaupun sempat mengalami volume transaksi yang signifikan pada tahun (2004-2008), pergerakan transaksi terlihat kembali stabil dimulai pada tahun 2015 dengan pola distribusi yang cenderung lebih normal dan terprediksi_
 
 #### Langkah Rekomendasi
 
