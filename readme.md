@@ -64,7 +64,7 @@ Here's the breakdown insight of the top 20 average closing price at google stock
 - 🔄 Harga kembali naik pada pertengahan 2025 dan menunjukkan sinyal pemulihan (rebound), menandakan bahwa sentimen pasar tetap positif meski sempat terkoreksi.
 - 📊 Perbedaan harga antar bulan yang cukup ekstrem (**±40 juta USD**) mencerminkan volatilitas tinggi, sehingga periode ini berisiko sekaligus menarik untuk strategi trading jangka pendek.
 
-![Average harga penutupan TOP 20](assets\1_avg_harga_penutupan_top20.png)
+![Average harga penutupan TOP 20](assets/1_avg_harga_penutupan_top20.png)
 
 _Grafik menampilkan tren harga penutupan rata-rata saham Google dalam satuan juta USD selama periode bulan-bulan tertentu (kemungkinan rentang 2024–2025). Data yang diambil adalah 20 bulan dengan rata-rata harga tertinggi (top 20)._
 
