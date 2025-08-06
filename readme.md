@@ -60,7 +60,7 @@ order BY
 Here's the breakdown insight of the top 20 average closing price at google stocks data in 2024-2025:
 
 - 📈 Harga penutupan saham Google menunjukkan tren kenaikan stabil dari akhir 2024, dan mencapai puncaknya pada Januari 2025 di angka **±196 juta USD**.
-- 📉 Setelah puncak tersebut, terjadi koreksi signifikan hingga mencapai titik terendah di bulan April 2025 (**~156 juta USD%%), yang kemungkinan disebabkan oleh aksi ambil untung (**profit-taking\*\*) investor.
+- 📉 Setelah puncak tersebut, terjadi koreksi signifikan hingga mencapai titik terendah di bulan April 2025 (**~156 juta USD**), yang kemungkinan disebabkan oleh aksi ambil untung (**profit-taking**) investor.
 - 🔄 Harga kembali naik pada pertengahan 2025 dan menunjukkan sinyal pemulihan (rebound), menandakan bahwa sentimen pasar tetap positif meski sempat terkoreksi.
 - 📊 Perbedaan harga antar bulan yang cukup ekstrem (**±40 juta USD**) mencerminkan volatilitas tinggi, sehingga periode ini berisiko sekaligus menarik untuk strategi trading jangka pendek.
 
