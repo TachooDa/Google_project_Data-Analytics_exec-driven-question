@@ -28,7 +28,7 @@ Data berasal dari [Link from kaggle](https://www.kaggle.com/datasets/adilshamim8
 For my deep dive into the google stock data analysis, I harnessed the power of several key tools :
 
 - **SQL:** The Backbone of my analysis, allowing me to query the database and unearch critikal insights.
-- **PostgreSQL:** The chosen database managemen system, ideal for handling the job posting data.
+- **PostgreSQL:** The chosen database managemen system, ideal for handling the Google Stock data.
 - **Visual Studio Coda:** My go-to for database management and executing SQL queries.
 - **Python (for visualization):** To create the chart and priventing insight with chart
 - **Git&Github:** Essential for version control and sharing my Sql scripts and analysis, ensuring collaboration and project tracking.
