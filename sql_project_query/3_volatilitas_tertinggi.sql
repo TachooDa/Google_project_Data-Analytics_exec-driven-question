@@ -24,21 +24,21 @@ ORDER BY
     limit 20;
 
 -- use CTE's
-with avg_vol as(
-SELECT
-    avg(high - low) as avg_volatilitas
-FROM
-    google_stock
-)
-SELECT
-    g.date,
-    g.high,
-    g.low,
-    (g.high - g.low) as volatilitas,
-    av.avg_volatilitas
-FROM
-    google_stock as g,
-    avg_vol as av
-order BY
-    volatilitas DESC
-limit 10;
+    with avg_vol as(
+    SELECT
+        avg(high - low) as avg_volatilitas
+    FROM
+        google_stock
+    )
+    SELECT
+        g.date,
+        g.high,
+        g.low,
+        (g.high - g.low) as volatilitas,
+        av.avg_volatilitas
+    FROM
+        google_stock as g,
+        avg_vol as av
+    order BY
+        g.date DESC
+    limit 10;

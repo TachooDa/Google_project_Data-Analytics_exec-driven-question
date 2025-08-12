@@ -98,19 +98,19 @@ _Persentase hari harga naik: 50.75% dari total 5255 hari perdagangan. Bar chart 
 
 ### 3. Hari apa saja dalam seminggu yang menunjukkan fluktuasi harga(volatilitas) saham paling signifikan?
 
-Pada pertanyaan ini, saya ingin mengetahui top 10 tingkat fluktuasi harga(volatilitas) harga saham yang paling signifkan terjadi di hari(dalam seminggu) dan terjadi pada bulan apa dalam rentang tahun 2024-2025.
+Pada pertanyaan ini, saya ingin mengetahui 10 hari tingkat fluktuasi harga(volatilitas) harga saham yang paling signifkan terjadi di hari(dalam seminggu) dan terjadi pada bulan apa dalam rentang tahun 2025.
 [SQL Query](sql_project_query/3_volatilitas_tertinggi.sql)
 
-Here's the breakdown insight of which weekdays show the most significant price volatility in Google stock during the 2024–2025 period:
+Here's the breakdown insight of which weekdays show the most significant price volatility in Google stock during the 2025 period:
 
-- 📊 Terlihat ada hari-hari dengan volatilitas harga harian(selisih hig-low) jauh diatas rata-rata(lebih dari 9x lipat),contoh pada 7 mei 2025, volatilitas mencapai **17.48 poin** jika dibandingkan dengan daily average yg hanya **1.07 poin**
-- Beberapa hari menunjukan volatilitas tinggi secara berdekatan seperti April-Mei 2025, ini menandakan sebuah potensi adanya peristiwa pasar yg besar atau reaksi investor terhadap informasi eksternal(earning reports dll)
-- Volatilitas yg tinggi menjadi sinyal peluang besar untuk trader aktif, tetapi ini juga berisiko tinggi jika tida diikuti dengan langkah yg tepat.
+- Lonjakan Ekstrem di 9 Juli 2025 — Volatilitas mencapai 6.40 poin, sekitar 6× rata-rata harian (1.07 poin), menandakan pergerakan harga yang sangat tajam dalam sehari.
+- Beberapa Hari Tinggi Berturut-turut — Periode 27 Juni – 30 Juni 2025 juga menunjukkan volatilitas di kisaran 6.08–6.13 poin, yang mengindikasikan fase pasar dengan aktivitas dan ketidakpastian tinggi.
+- Mayoritas Hari Relatif Tenang — Sebagian besar hari tetap berada di kisaran 2–4 poin, yang masih jauh di atas rata-rata namun tidak termasuk kategori ekstrem, menunjukkan pola fluktuasi menengah di luar lonjakan besar.
 
 _Volatilitas ekstrem ini bisa menjadi alarm bagi investor untuk lebih waspada atau justru lebih aktif memanfaatkan peluang harga yang fluktuatif — tergantung pada profil risiko dan strategi investasi masing-masing._
 
-![Top 10 Volatil saham tertinggi](assets/3_top10_volatilitas_tertinggi.png)
-_Bar chart menunjukan volatilitas harga harian(selisih hig-low) jauh diatas rata-rata(lebih dari 9x lipat),tepatnya pada 7 mei 2025, volatilitas mencapai **17.48 poin** jika dibandingkan dengan daily average yg hanya **1.07 poin**_
+![Top 10 Volatil saham tertinggi](assets/3_1_vol_tertinggi.png)
+_Bar chart menunjukkan volatilitas harga harian (selisih high–low) yang jauh di atas rata-rata pada 9 Juli 2025, di mana volatilitas mencapai 6.40 poin dibandingkan dengan rata-rata harian hanya 1.07 poin._
 
 #### Langkah Rekomendasi
 
