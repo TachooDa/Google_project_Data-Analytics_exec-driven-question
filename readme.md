@@ -28,7 +28,7 @@ Data berasal dari [Link from kaggle](https://www.kaggle.com/datasets/adilshamim8
 For my deep dive into the google stock data analysis, I harnessed the power of several key tools :
 
 - **SQL:** The Backbone of my analysis, allowing me to query the database and unearch critikal insights.
-- **PostgreSQL:** The chosen database managemen system, ideal for handling the job posting data.
+- **PostgreSQL:** The chosen database managemen system, ideal for handling the Google Stock data.
 - **Visual Studio Coda:** My go-to for database management and executing SQL queries.
 - **Python (for visualization):** To create the chart and priventing insight with chart
 - **Git&Github:** Essential for version control and sharing my Sql scripts and analysis, ensuring collaboration and project tracking.
@@ -60,7 +60,7 @@ order BY
 Here's the breakdown insight of the top 20 average closing price at google stocks data in 2024-2025:
 
 - 📈 Harga penutupan saham Google menunjukkan tren kenaikan stabil dari akhir 2024, dan mencapai puncaknya pada Januari 2025 di angka **±196 juta USD**.
-- 📉 Setelah puncak tersebut, terjadi koreksi signifikan hingga mencapai titik terendah di bulan April 2025 (**~156 juta USD%%), yang kemungkinan disebabkan oleh aksi ambil untung (**profit-taking\*\*) investor.
+- 📉 Setelah puncak tersebut, terjadi koreksi signifikan hingga mencapai titik terendah di bulan April 2025 (**~156 juta USD**), yang kemungkinan disebabkan oleh aksi ambil untung (**profit-taking**) investor.
 - 🔄 Harga kembali naik pada pertengahan 2025 dan menunjukkan sinyal pemulihan (rebound), menandakan bahwa sentimen pasar tetap positif meski sempat terkoreksi.
 - 📊 Perbedaan harga antar bulan yang cukup ekstrem (**±40 juta USD**) mencerminkan volatilitas tinggi, sehingga periode ini berisiko sekaligus menarik untuk strategi trading jangka pendek.
 
